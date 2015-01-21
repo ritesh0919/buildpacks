@@ -1,0 +1,110 @@
+127.0.0.1 - - [19/Jan/2015:17:22:19 +051800] [localhost/sid#22865c8][rid#7fc2d4002970/initial] (2) init rewrite engine with requested uri /
+127.0.0.1 - - [19/Jan/2015:17:22:19 +051800] [localhost/sid#22865c8][rid#7fc2d4002970/initial] (3) applying pattern '^/(.*)' to uri '/'
+127.0.0.1 - - [19/Jan/2015:17:22:19 +051800] [localhost/sid#22865c8][rid#7fc2d4002970/initial] (2) rewrite '/' -> 'http://localhost:8080/()'
+127.0.0.1 - - [19/Jan/2015:17:22:19 +051800] [localhost/sid#22865c8][rid#7fc2d4002970/initial] (2) forcing proxy-throughput with http://localhost:8080/()
+127.0.0.1 - - [19/Jan/2015:17:22:19 +051800] [localhost/sid#22865c8][rid#7fc2d4002970/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/() [OK]
+127.0.0.1 - - [19/Jan/2015:17:22:19 +051800] [localhost/sid#22865c8][rid#7fc2d400ca40/initial] (2) init rewrite engine with requested uri /favicon.ico
+127.0.0.1 - - [19/Jan/2015:17:22:19 +051800] [localhost/sid#22865c8][rid#7fc2d400ca40/initial] (3) applying pattern '^/(.*)' to uri '/favicon.ico'
+127.0.0.1 - - [19/Jan/2015:17:22:19 +051800] [localhost/sid#22865c8][rid#7fc2d400ca40/initial] (2) rewrite '/favicon.ico' -> 'http://localhost:8080/(favicon.ico)'
+127.0.0.1 - - [19/Jan/2015:17:22:19 +051800] [localhost/sid#22865c8][rid#7fc2d400ca40/initial] (2) forcing proxy-throughput with http://localhost:8080/(favicon.ico)
+127.0.0.1 - - [19/Jan/2015:17:22:19 +051800] [localhost/sid#22865c8][rid#7fc2d400ca40/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/(favicon.ico) [OK]
+127.0.0.1 - - [19/Jan/2015:17:22:19 +051800] [localhost/sid#22865c8][rid#7fc2d4004980/initial] (2) init rewrite engine with requested uri /favicon.ico
+127.0.0.1 - - [19/Jan/2015:17:22:19 +051800] [localhost/sid#22865c8][rid#7fc2d4004980/initial] (3) applying pattern '^/(.*)' to uri '/favicon.ico'
+127.0.0.1 - - [19/Jan/2015:17:22:19 +051800] [localhost/sid#22865c8][rid#7fc2d4004980/initial] (2) rewrite '/favicon.ico' -> 'http://localhost:8080/(favicon.ico)'
+127.0.0.1 - - [19/Jan/2015:17:22:19 +051800] [localhost/sid#22865c8][rid#7fc2d4004980/initial] (2) forcing proxy-throughput with http://localhost:8080/(favicon.ico)
+127.0.0.1 - - [19/Jan/2015:17:22:19 +051800] [localhost/sid#22865c8][rid#7fc2d4004980/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/(favicon.ico) [OK]
+127.0.0.1 - - [19/Jan/2015:17:23:30 +051800] [localhost/sid#22865c8][rid#7fc2d4002970/initial] (2) init rewrite engine with requested uri /springexample-env
+127.0.0.1 - - [19/Jan/2015:17:23:30 +051800] [localhost/sid#22865c8][rid#7fc2d4002970/initial] (3) applying pattern '^/(.*)' to uri '/springexample-env'
+127.0.0.1 - - [19/Jan/2015:17:23:30 +051800] [localhost/sid#22865c8][rid#7fc2d4002970/initial] (2) rewrite '/springexample-env' -> 'http://localhost:8080/(springexample-env)'
+127.0.0.1 - - [19/Jan/2015:17:23:30 +051800] [localhost/sid#22865c8][rid#7fc2d4002970/initial] (2) forcing proxy-throughput with http://localhost:8080/(springexample-env)
+127.0.0.1 - - [19/Jan/2015:17:23:30 +051800] [localhost/sid#22865c8][rid#7fc2d4002970/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/(springexample-env) [OK]
+127.0.0.1 - - [19/Jan/2015:17:23:43 +051800] [localhost/sid#22865c8][rid#7fc2d4002970/initial] (2) init rewrite engine with requested uri /
+127.0.0.1 - - [19/Jan/2015:17:23:43 +051800] [localhost/sid#22865c8][rid#7fc2d4002970/initial] (3) applying pattern '^/(.*)' to uri '/'
+127.0.0.1 - - [19/Jan/2015:17:23:43 +051800] [localhost/sid#22865c8][rid#7fc2d4002970/initial] (2) rewrite '/' -> 'http://localhost:8080/()'
+127.0.0.1 - - [19/Jan/2015:17:23:43 +051800] [localhost/sid#22865c8][rid#7fc2d4002970/initial] (2) forcing proxy-throughput with http://localhost:8080/()
+127.0.0.1 - - [19/Jan/2015:17:23:43 +051800] [localhost/sid#22865c8][rid#7fc2d4002970/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/() [OK]
+127.0.0.1 - - [19/Jan/2015:17:24:24 +051800] [localhost/sid#22865c8][rid#7fc2d4014a80/initial] (2) init rewrite engine with requested uri /
+127.0.0.1 - - [19/Jan/2015:17:24:24 +051800] [localhost/sid#22865c8][rid#7fc2d4014a80/initial] (3) applying pattern '^/(.*)' to uri '/'
+127.0.0.1 - - [19/Jan/2015:17:24:24 +051800] [localhost/sid#22865c8][rid#7fc2d4014a80/initial] (2) rewrite '/' -> 'http://localhost:8080/()'
+127.0.0.1 - - [19/Jan/2015:17:24:24 +051800] [localhost/sid#22865c8][rid#7fc2d4014a80/initial] (2) forcing proxy-throughput with http://localhost:8080/()
+127.0.0.1 - - [19/Jan/2015:17:24:24 +051800] [localhost/sid#22865c8][rid#7fc2d4014a80/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/() [OK]
+127.0.0.1 - - [19/Jan/2015:17:24:41 +051800] [localhost/sid#22865c8][rid#7fc2d4012a70/initial] (2) init rewrite engine with requested uri /
+127.0.0.1 - - [19/Jan/2015:17:24:41 +051800] [localhost/sid#22865c8][rid#7fc2d4012a70/initial] (3) applying pattern '^/(.*)' to uri '/'
+127.0.0.1 - - [19/Jan/2015:17:24:41 +051800] [localhost/sid#22865c8][rid#7fc2d4012a70/initial] (2) rewrite '/' -> 'http://localhost:8080/()'
+127.0.0.1 - - [19/Jan/2015:17:24:41 +051800] [localhost/sid#22865c8][rid#7fc2d4012a70/initial] (2) forcing proxy-throughput with http://localhost:8080/()
+127.0.0.1 - - [19/Jan/2015:17:24:41 +051800] [localhost/sid#22865c8][rid#7fc2d4012a70/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/() [OK]
+127.0.0.1 - - [19/Jan/2015:17:25:50 +051800] [localhost/sid#22865c8][rid#7fc2d4004980/initial] (2) init rewrite engine with requested uri /app
+127.0.0.1 - - [19/Jan/2015:17:25:50 +051800] [localhost/sid#22865c8][rid#7fc2d4004980/initial] (3) applying pattern '^/(.*)' to uri '/app'
+127.0.0.1 - - [19/Jan/2015:17:25:50 +051800] [localhost/sid#22865c8][rid#7fc2d4004980/initial] (2) rewrite '/app' -> 'http://localhost:8080/(app)'
+127.0.0.1 - - [19/Jan/2015:17:25:50 +051800] [localhost/sid#22865c8][rid#7fc2d4004980/initial] (2) forcing proxy-throughput with http://localhost:8080/(app)
+127.0.0.1 - - [19/Jan/2015:17:25:50 +051800] [localhost/sid#22865c8][rid#7fc2d4004980/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/(app) [OK]
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff588002970/initial] (2) init rewrite engine with requested uri /app
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff588002970/initial] (3) applying pattern '^/(.*)' to uri '/app'
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff588002970/initial] (2) rewrite '/app' -> 'http://localhost:8080/app'
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff588002970/initial] (2) forcing proxy-throughput with http://localhost:8080/app
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff588002970/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/app [OK]
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff58800ca40/initial] (2) init rewrite engine with requested uri /app/
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff58800ca40/initial] (3) applying pattern '^/(.*)' to uri '/app/'
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff58800ca40/initial] (2) rewrite '/app/' -> 'http://localhost:8080/app/'
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff58800ca40/initial] (2) forcing proxy-throughput with http://localhost:8080/app/
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff58800ca40/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/app/ [OK]
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff588004980/initial] (2) init rewrite engine with requested uri /app/images/execute.gif
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff588004980/initial] (3) applying pattern '^/(.*)' to uri '/app/images/execute.gif'
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff588004980/initial] (2) rewrite '/app/images/execute.gif' -> 'http://localhost:8080/app/images/execute.gif'
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff588004980/initial] (2) forcing proxy-throughput with http://localhost:8080/app/images/execute.gif
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff588004980/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/app/images/execute.gif [OK]
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff578002970/initial] (2) init rewrite engine with requested uri /app/images/code.gif
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff578002970/initial] (3) applying pattern '^/(.*)' to uri '/app/images/code.gif'
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff578002970/initial] (2) rewrite '/app/images/code.gif' -> 'http://localhost:8080/app/images/code.gif'
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff578002970/initial] (2) forcing proxy-throughput with http://localhost:8080/app/images/code.gif
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff578002970/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/app/images/code.gif [OK]
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff588002970/initial] (2) init rewrite engine with requested uri /app/images/return.gif
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff588002970/initial] (3) applying pattern '^/(.*)' to uri '/app/images/return.gif'
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff588002970/initial] (2) rewrite '/app/images/return.gif' -> 'http://localhost:8080/app/images/return.gif'
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff588002970/initial] (2) forcing proxy-throughput with http://localhost:8080/app/images/return.gif
+127.0.0.1 - - [19/Jan/2015:17:26:29 +051800] [localhost/sid#12c95c8][rid#7ff588002970/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/app/images/return.gif [OK]
+127.0.0.1 - - [19/Jan/2015:17:26:32 +051800] [localhost/sid#12c95c8][rid#7ff588006990/initial] (2) init rewrite engine with requested uri /
+127.0.0.1 - - [19/Jan/2015:17:26:32 +051800] [localhost/sid#12c95c8][rid#7ff588006990/initial] (3) applying pattern '^/(.*)' to uri '/'
+127.0.0.1 - - [19/Jan/2015:17:26:32 +051800] [localhost/sid#12c95c8][rid#7ff588006990/initial] (2) rewrite '/' -> 'http://localhost:8080/'
+127.0.0.1 - - [19/Jan/2015:17:26:32 +051800] [localhost/sid#12c95c8][rid#7ff588006990/initial] (2) forcing proxy-throughput with http://localhost:8080/
+127.0.0.1 - - [19/Jan/2015:17:26:32 +051800] [localhost/sid#12c95c8][rid#7ff588006990/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/ [OK]
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff588004980/initial] (2) init rewrite engine with requested uri /tomcat.css
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff588004980/initial] (3) applying pattern '^/(.*)' to uri '/tomcat.css'
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff588004980/initial] (2) rewrite '/tomcat.css' -> 'http://localhost:8080/tomcat.css'
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff588004980/initial] (2) forcing proxy-throughput with http://localhost:8080/tomcat.css
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff588004980/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/tomcat.css [OK]
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff58800ca40/initial] (2) init rewrite engine with requested uri /tomcat.png
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff58800ca40/initial] (3) applying pattern '^/(.*)' to uri '/tomcat.png'
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff58800ca40/initial] (2) rewrite '/tomcat.png' -> 'http://localhost:8080/tomcat.png'
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff58800ca40/initial] (2) forcing proxy-throughput with http://localhost:8080/tomcat.png
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff58800ca40/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/tomcat.png [OK]
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff588006990/initial] (2) init rewrite engine with requested uri /bg-nav.png
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff588004980/initial] (2) init rewrite engine with requested uri /asf-logo.png
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff588004980/initial] (3) applying pattern '^/(.*)' to uri '/asf-logo.png'
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff588006990/initial] (3) applying pattern '^/(.*)' to uri '/bg-nav.png'
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff588006990/initial] (2) rewrite '/bg-nav.png' -> 'http://localhost:8080/bg-nav.png'
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff588004980/initial] (2) rewrite '/asf-logo.png' -> 'http://localhost:8080/asf-logo.png'
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff588006990/initial] (2) forcing proxy-throughput with http://localhost:8080/bg-nav.png
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff588004980/initial] (2) forcing proxy-throughput with http://localhost:8080/asf-logo.png
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff588006990/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/bg-nav.png [OK]
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff588004980/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/asf-logo.png [OK]
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff578002970/initial] (2) init rewrite engine with requested uri /bg-button.png
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff578002970/initial] (3) applying pattern '^/(.*)' to uri '/bg-button.png'
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff57800aa30/initial] (2) init rewrite engine with requested uri /bg-upper.png
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff578002970/initial] (2) rewrite '/bg-button.png' -> 'http://localhost:8080/bg-button.png'
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff578002970/initial] (2) forcing proxy-throughput with http://localhost:8080/bg-button.png
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff57800aa30/initial] (3) applying pattern '^/(.*)' to uri '/bg-upper.png'
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff578002970/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/bg-button.png [OK]
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff57800aa30/initial] (2) rewrite '/bg-upper.png' -> 'http://localhost:8080/bg-upper.png'
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff57800aa30/initial] (2) forcing proxy-throughput with http://localhost:8080/bg-upper.png
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff57800aa30/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/bg-upper.png [OK]
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff56c002970/initial] (2) init rewrite engine with requested uri /bg-middle.png
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff56c002970/initial] (3) applying pattern '^/(.*)' to uri '/bg-middle.png'
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff56c002970/initial] (2) rewrite '/bg-middle.png' -> 'http://localhost:8080/bg-middle.png'
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff56c002970/initial] (2) forcing proxy-throughput with http://localhost:8080/bg-middle.png
+127.0.0.1 - - [19/Jan/2015:17:26:33 +051800] [localhost/sid#12c95c8][rid#7ff56c002970/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/bg-middle.png [OK]
+127.0.0.1 - - [19/Jan/2015:17:26:38 +051800] [localhost/sid#12c95c8][rid#7ff578012a70/initial] (2) init rewrite engine with requested uri /
+127.0.0.1 - - [19/Jan/2015:17:26:38 +051800] [localhost/sid#12c95c8][rid#7ff578012a70/initial] (3) applying pattern '^/(.*)' to uri '/'
+127.0.0.1 - - [19/Jan/2015:17:26:38 +051800] [localhost/sid#12c95c8][rid#7ff578012a70/initial] (2) rewrite '/' -> 'http://localhost:8080/'
+127.0.0.1 - - [19/Jan/2015:17:26:38 +051800] [localhost/sid#12c95c8][rid#7ff578012a70/initial] (2) forcing proxy-throughput with http://localhost:8080/
+127.0.0.1 - - [19/Jan/2015:17:26:38 +051800] [localhost/sid#12c95c8][rid#7ff578012a70/initial] (1) go-ahead with proxy request proxy:http://localhost:8080/ [OK]

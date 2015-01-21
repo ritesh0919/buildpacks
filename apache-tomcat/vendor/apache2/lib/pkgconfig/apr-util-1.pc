@@ -1,0 +1,13 @@
+prefix=/home/lingesh/workspace/apache2
+exec_prefix=/home/lingesh/workspace/apache2
+libdir=${prefix}/lib
+APRUTIL_MAJOR_VERSION=1
+includedir=/home/lingesh/workspace/apache2/include
+
+Name: APR Utils
+Description: Companion library for APR
+Version: 1.5.3
+# assume that apr-util requires libapr of same major version
+Requires: apr-1
+Libs: -L${libdir} -laprutil-${APRUTIL_MAJOR_VERSION}  /home/lingesh/workspace/httpd-2.2.29/srclib/apr-util/xml/expat/libexpat.la
+Cflags: -I${includedir}

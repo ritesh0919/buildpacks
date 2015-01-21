@@ -1,0 +1,22 @@
+#! /bin/sh
+#
+# Created by configure
+
+"./configure" \
+"--prefix=/home/lingesh/workspace/apache2" \
+"--enable-mods-shared=all" \
+"--enable-http" \
+"--enable-deflate" \
+"--enable-expires" \
+"--enable-slotmem-shm" \
+"--enable-headers" \
+"--enable-rewrite" \
+"--enable-proxy" \
+"--enable-proxy-balancer" \
+"--enable-proxy-http" \
+"--enable-proxy-fcgi" \
+"--enable-mime-magic" \
+"--enable-log-debug" \
+"--with-mpm=event" \
+"--with-included-apr" \
+"$@"
